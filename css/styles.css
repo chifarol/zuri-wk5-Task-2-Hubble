@@ -356,7 +356,7 @@ nav button {
 .section{
     padding:5px;
     height: 500px;
-    width:350px;
+    width:100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -387,7 +387,7 @@ nav button {
 }
 .footer-offset{
     position: absolute;
-    width: 350px;
+    width: 90%;
     height: 150px;
     top: -80px;
     left: 5%;
